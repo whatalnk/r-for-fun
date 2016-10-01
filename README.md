@@ -2,7 +2,8 @@
 ## About
 『[Rで楽しむ統計](http://www.kyoritsu-pub.co.jp/bookdetail/9784320112414)』（共立出版）のnotebooks
 
-* [サポートページ](https://github.com/okumuralab/RforFun)
+* [著者サポートページ](https://github.com/okumuralab/RforFun)
 
 ## 目次
-* [Chapter 1](/r-for-fun/Chap01)
+* [Chapter 1](whatalnk.github.io/r-for-fun/Chap01)
+* [Chapter 2](whatalnk.github.io/r-for-fun/Chap02)
