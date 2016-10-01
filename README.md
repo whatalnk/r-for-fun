@@ -5,5 +5,5 @@
 * [著者サポートページ](https://github.com/okumuralab/RforFun)
 
 ## 目次
-* [Chapter 1](whatalnk.github.io/r-for-fun/Chap01)
-* [Chapter 2](whatalnk.github.io/r-for-fun/Chap02)
+* [Chapter 1](https://whatalnk.github.io/r-for-fun/Chap01)
+* [Chapter 2](https://whatalnk.github.io/r-for-fun/Chap02)
